@@ -50,10 +50,10 @@ This API provides the following features:
 ### **Clone the Repository**
 ```bash
 git init
-git remote add origin https://github.com/HenryMichaelEmeka/Number-Classification-API.git
+git remote add origin https://github.com/NkJuwe/Devops_Stage1.git
 git branch -M main
-git config user.name "MichaelHenryEmeka"
-git config user.email "henrymichal634@gmail.com"
+git config user.name "NKJuwe"
+git config user.email "nikkyjuwe@gmail.com"
 
 ### **Install Dependencies**
 
