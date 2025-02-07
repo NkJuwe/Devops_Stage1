@@ -81,10 +81,10 @@ The API is available at `http://127.0.0.1:8080`.
 
 This API has been deployed to Render.com and is publicly accessible at:
 
-- **Base URL**: `https://Number-Classification-API-Generalzodd01.onrender.com`
+- **Base URL**: `https://Devops_Stage1_Nikky_Juwe.onrender.com`
 - **Example Endpoint**:
-    - Successful Response: `https://Number-Classification-API-Generalzodd01.onrender.com/api/classify-number?number=371`
-    - Error Response: `https://Number-Classification-API-Generalzodd01.onrender.com/api/classify-number?number=abc`
+    - Successful Response: `https://Devops_Stage1_Nikky_Juwe.onrender.com/api/classify-number?number=371`
+    - Error Response: `https://Devops_Stage1_Nikky_Juwe.onrender.com/api/classify-number?number=abc`
 
 ---
 
@@ -125,7 +125,7 @@ app.add_middleware(
 
 ## **Technology Stack**
 
-- **Programming Language**: Python 3.13.1
+- **Programming Language**: Python 3.13.2
 - **Framework**: FastAPI
 - **Deployment**: Render.com
 - **External API**: 371 (Fun facts: 371 is an Armstrong number because  3^3 + 7^3 + 1^3 = 371.")
@@ -167,9 +167,9 @@ The Numbers API is used to fetch a fun fact related to the number, enriching the
 ## **Testing**
 
 1. Tested with valid numbers:
-    - `https://Number-Classification-API-Generalzodd01.onrender.com/api/classify-number?number=371`
+    - `https://Devops_Stage1_Nikky_Juwe.onrender.com/api/classify-number?number=371`
 2. Tested with invalid inputs:
-    - `https://Number-Classification-API-Generalzodd01.onrender.com/api/classify-number?number=abc`
+    - `https://Devops_Stage1_Nikky_Juwe.onrender.com/api/classify-number?number=abc`
 3. Tested edge cases:
     - Negative numbers
     - Large integers
@@ -183,7 +183,7 @@ This project is open-source and available under the [MIT License](https://chatgp
 
 MIT License
 
-Copyright (c) 2025 [Henry_Michael_Emeka]
+Copyright (c) 2025 [Nkechi_Gift_Juwe]
 
 ---
 
@@ -221,5 +221,5 @@ Contributions are welcome! Kindly follow these steps to contribute:
 
 For questions or suggestions, feel free to contact:
 
-- **Email**: [henrymichaelemeka@gmail.com](mailto:henwhite223@gmail.com)
-- **GitHub**: [HenryMichaelEmeka](https://github.com/HenryMichaelEmeka)
+- **Email**: [nikkyjuwe@gmail.com](mailto:nikkyjuwe@gmail.com)
+- **GitHub**: [NKJuwe](https://github.com/NKJuwe)
